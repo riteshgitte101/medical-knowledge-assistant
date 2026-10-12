@@ -1,0 +1,7 @@
+# Requirements for Medical Knowledge Assistant
+#
+# Dependencies will be added here as we decide on specific
+# libraries and model providers during development.
+#
+# Do not install anything until we have discussed and chosen
+# each dependency together.
